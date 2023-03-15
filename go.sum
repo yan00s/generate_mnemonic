@@ -1,0 +1,6 @@
+github.com/1makarov/gen-prv-keys v0.0.0-20221126230416-ee77eb303307 h1:/H+4+AnvOlBYWXPmsI/aqapRK/vxW/AYHR4ekuvKPTA=
+github.com/1makarov/gen-prv-keys v0.0.0-20221126230416-ee77eb303307/go.mod h1:sX4OaPWAJGjuvu+beSQH7dbOtunEBSXpvWeDfGMZQNw=
+github.com/umahmood/mnemonic v1.0.0 h1:kOUXyFdyg9T88joCYukyUh2jZNW8ATZaWwndxVypiJ8=
+github.com/umahmood/mnemonic v1.0.0/go.mod h1:kuF1FuugeliMdU+QLfXZpT9g1YwRY3n25k2Aba8nY/o=
+golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 h1:7I4JAnoQBe7ZtJcBaYHi5UtiO8tQHbUSXxL+pnGRANg=
+golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
